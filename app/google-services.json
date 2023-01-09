@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589188131368",
+    "project_id": "seguimiento-fenologico",
+    "storage_bucket": "seguimiento-fenologico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589188131368:android:49f5bbfbba0237f3b1a31d",
+        "android_client_info": {
+          "package_name": "com.itsa.seguimientofenolgico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589188131368-nlo2id5fob1ne2oveo182rabino6k6gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itsa.seguimientofenolgico",
+            "certificate_hash": "ee14417367084dae120fd837ab30254bb2bfc978"
+          }
+        },
+        {
+          "client_id": "589188131368-ktb4njs4ojrfnd7gvfk7nusiksn6f6kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecPbPAyCEhXBsXcILHM8wfT2bcOctI80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589188131368-ktb4njs4ojrfnd7gvfk7nusiksn6f6kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
